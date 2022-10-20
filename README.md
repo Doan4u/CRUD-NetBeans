@@ -2,5 +2,5 @@
 Project kasir sederhana java netbeans
 
 # Login	
-Username : doan	
+Username : doan	/
 Password : 12345
